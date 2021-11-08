@@ -1,2 +1,1 @@
-# media-reporting
- Articles reporting bias incidents and hate crimes targeting Asian Americans and Pacific Islanders
+Unless otherwise noted, our data sets are available under the Creative Commons Attribution 4.0 International License, and the code is available under the MIT License. If you find this information useful, please [let us know](data@taaf.org).
